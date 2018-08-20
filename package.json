@@ -1,7 +1,6 @@
 {
   "name": "todolist",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,14 @@
   },
   "devDependencies": {
     "eslint": "^5.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irinabez/ToDoList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Irinabez/ToDoList/issues"
+  },
+  "homepage": "https://github.com/Irinabez/ToDoList#readme",
+  "description": ""
 }
